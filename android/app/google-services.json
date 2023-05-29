@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "940290749673",
+    "project_id": "vaccen-37112",
+    "storage_bucket": "vaccen-37112.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940290749673:android:3a24e6aa47b3ff2d2eec78",
+        "android_client_info": {
+          "package_name": "com.example.child_immunization"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "940290749673-em8h3q6fdomqt7j4iqjf5p3k3v7kjv8f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2ufliad9ebr20IlcnWPxXI3JWCXiSx98"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "940290749673-em8h3q6fdomqt7j4iqjf5p3k3v7kjv8f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
